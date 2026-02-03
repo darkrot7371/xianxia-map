@@ -19,7 +19,7 @@ In this realm, you are not just a traveler; you are a cultivator using your **Di
 7. [Installation & Requirements](#installation--requirements)
 8. [The "Dao" of the Code](#the-dao-of-the-code)
 9. [Future Roadmap](#future-roadmap)
-10. [Credits](#credits)
+10. made by "Dark Rot"
 
 ---
 
